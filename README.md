@@ -4,7 +4,7 @@
 
 ### 2025-08-06. Teórica 1, link del fork y discord.
 
-Novedades!
+Novedades de la mejor materia del mundo!
 
 Tareas:
 
@@ -18,13 +18,15 @@ Tareas:
     - **Calendar**. Ya les di acceso al calendar [5] de los viernes (nuestro día adicional).
 
 
-Liks:
+Links:
 
 - [[1] Discord](https://discord.gg/nGjP8vWN3Q)
 - [[2] Git](https://github.com/MetodosBayesianos/IBC1.2025.2)
 - [[3] Libro](https://www.mbmlbook.com/MBMLbook.pdf)
 - [[4] Meet](https://bayesplurinacional.org/link/VideoConferencia.html)
 - [[5] Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjlqbDZvNm85ZDMya2ZidDlyMGphdHJubTRfMjAyNTA4MDhUMTgwMDAwWiBndXN0YXZvLmxhbmRmcmllZEBtdXR0ZGF0YS5haQ&tmsrc=gustavo.landfried%40muttdata.ai&scp=ALL)
+
+Solo en Inferencia Bayesiana Causal. Una materia difícil que te lleva a otro lugar.
 
 ### 2025-08-04. Git, when2meet y preguntas.
 
